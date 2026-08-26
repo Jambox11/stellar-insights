@@ -51,7 +51,7 @@ pub mod session;
 pub mod shutdown;
 pub mod snapshot;
 pub mod state;
-pub mod twofa;
+pub mod telegram;
 pub mod validation;
 pub mod vault;
 pub mod webhooks;
