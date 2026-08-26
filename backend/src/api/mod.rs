@@ -1,5 +1,6 @@
 pub mod account_merges;
 pub mod achievements;
+pub mod admin_ip_whitelist;
 pub mod alerts;
 pub mod analytics_dashboard;
 pub mod anchors;
